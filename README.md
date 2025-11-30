@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igoriosdeveloper
+- 👋 Hi, I’m @igorastsatryan
 - 👀 I’m interested in all the kinds of IT
 - 🌱 I’m currently learning Swift and iOS
 - 💞️ I’m looking to collaborate on ... (maybe not now)
